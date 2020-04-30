@@ -1,0 +1,5 @@
+function functionWithArgs(a, b) {
+  console.log(a + b);
+  return true;
+} 
+functionWithArgs(5,0);
